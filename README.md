@@ -13,9 +13,14 @@
 
 ## GNN Papers
 
+### 2023 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
+| Year   | Title  | Venue |  Paper | Code  |
+|-------|--------|--------|--------|-----------|
+| 2023 | **Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum**  | WWW 2023 |  [Link](https://blacksingular.github.io/papers/www23-GHRN.pdf) | [Link](https://github.com/blacksingular/GHRN) |
 ### 2022 [[Back to Top](#graph-based-fraud-detection-papers-and-resources)]
 | Year   | Title  | Venue |  Paper | Code  |
 |-------|--------|--------|--------|-----------|
+| 2022 | **Alleviating Structural Distribution Shift in Graph Anomaly Detection**  | WSDM 2023 |  [Link](https://blacksingular.github.io/papers/wsdm23-GDN.pdf) | [Link](https://github.com/blacksingular/wsdm_GDN) |
 | 2022 | **EvAnGCN: Evolving Graph Deep Neural Network Based Anomaly Detection in Blockchain**  | ADMA 2022 |  [Link](https://link.springer.com/chapter/10.1007/978-3-031-22064-7_32) | Link |
 | 2022 | **Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection**  | NeurIPS 2022 |  [Link](https://openreview.net/pdf?id=d6mf9AFoR-O) | [Link](https://github.com/graph-level-anomalies/iGAD) |
 | 2022 | **Are we really making much progress in unsupervised graph outlier detection? Revisiting the problem with new insight and superior method**  | arXiv 2022 |  [Link](https://arxiv.org/pdf/2210.12941.pdf) | Link |
